@@ -7,6 +7,11 @@ Made Dynamic and Responsive Portfolio website ,Frontend-html,css,javascript,Boot
 
 Welcome to the repository of my personal portfolio website! This project features a frontend built with HTML, CSS, JavaScript, and Bootstrap, while the backend is powered by the Django framework. It serves as a showcase of my projects, skills, and professional experience.
 
+Run the file by opening views.py and then run it by command 'python manage.py runserver'
+Open the local sever 
+then you will see the website .
+!!!IF YOU DIRECTLY RUN THE INDEX.HTML IT WILL NOT SHOW ALL THE INTEGRATED FILES!!!
+
 ## Table of Contents
 
 - [Demo](#demo)
