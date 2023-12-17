@@ -28,7 +28,7 @@ then you will see the website .
 
 ## Demo
 
-
+https://github.com/AvirajJagtap/Portfolio_website.git
 
 
 ## Features
@@ -64,7 +64,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AvirajJagtap/Portfolio_website.git
+ https://github.com/AvirajJagtap/Portfolio_website.git
 
 
 #Configuration
