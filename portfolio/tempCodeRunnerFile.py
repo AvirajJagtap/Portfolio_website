@@ -1,0 +1,1 @@
+TATIC_URL = 'static/'
